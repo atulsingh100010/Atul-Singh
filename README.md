@@ -1,2 +1,2 @@
-# Atul-Singh
-Hello worl, this is my profile
+
+Hello world, this is my profile
